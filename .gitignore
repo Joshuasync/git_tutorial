@@ -1,0 +1,6 @@
+results/
+intermediate/
+*.tmp
+data/*
+!data/metadata.txt
+!data/*.fastq
